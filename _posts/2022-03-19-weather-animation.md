@@ -1,4 +1,11 @@
-![](weather_viz.jpg)
+---
+layout: post
+title: "Turning Tables into Animations Using R"
+author: "Kevin Tsang"
+# categories: journal
+# tags: [documentation,sample]
+image: weather_viz.jpg
+---
 
 ## Introduction
 
