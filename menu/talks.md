@@ -8,7 +8,7 @@ permalink: /talks
 
 ## Asthma UK Centre for Applied Research PhD Meet 2021 [public facing], Hybrid London. Sep 2021. "Mobile Device Monitoring to Inform Prediction of Asthma Attacks: an Observational Study (AAMOS-00)"
 
-<!--- <iframe width="560" height="315" src="https://www.youtube.com/embed/1_PlZx44H7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qUDTILIjOTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Asthma UK Centre for Applied Research Research Seminar, Online. Jan 2021. "Mobile Device Monitoring to Inform Prediction of Asthma Attacks: an Observational Study (AAMOS-00)"
 
