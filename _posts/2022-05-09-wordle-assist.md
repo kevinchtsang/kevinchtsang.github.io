@@ -27,6 +27,6 @@ This Wordle Assistant app is a tool to help search all possible English words gi
 This assistance tool was developed using the Scrabble dictionary avaiable via the [`words`](https://cran.r-project.org/web/packages/words/index.html) package, which may not match exactly to the specific dictionary of the Wordle implementation you play.
 
 ## Code
-The app is written using R and Shiny, making use of the `tidyverse` package to search the filter the dictionary.
+The app is written using R and Shiny, making use of the `tidyverse` package to search and filter the dictionary.
 
-Code is availble at https://github.com/kevinchtsang/wordle_assist
+Code is availble [here](https://github.com/kevinchtsang/wordle_assist)
