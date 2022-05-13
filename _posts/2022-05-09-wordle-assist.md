@@ -9,7 +9,10 @@ image: wordle_assist.png
 
 ## Try it yourself
 
-You can run this app locally by running the following code in R.
+<iframe height="400" width="100%" frameborder="no" src="https://hx2j2u-kevin-tsang.shinyapps.io/wordle_assist/"> </iframe>
+
+
+You can also run this app locally by running the following code in R.
 
 ```
 shiny::runGitHub("wordle_assist", "kevinchtsang")
