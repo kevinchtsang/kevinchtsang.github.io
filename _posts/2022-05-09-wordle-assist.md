@@ -17,6 +17,18 @@ shiny::runGitHub("wordle_assist", "kevinchtsang")
 
 Type in your word attempts and change the colours to match (grey - no match, yellow - in word, green - correct position) by clicking on the tiles.
 
+## Getting started with R
+If you don't already have R installed on your computer, you can download RStudio (an IDE for R) for free [here](https://www.rstudio.com/products/rstudio/download/).
+
+Then in the Console, you can run the following code to run the app.
+
+```
+install.packages("shiny")
+shiny::runGitHub("wordle_assist", "kevinchtsang")
+```
+
+It will take a while for all the packages to be downloaded.
+
 ## Introduction
 Wordle is a word game where players try to guess a five-letter word within six tries. If the letter is not present in the target word, the game will mark the letter as grey. If the letter is present in the target word but not in the exact position, the game will mark the letter as yellow. If the letter is in the exact position as the target word, the game will mark the letter green.
 
