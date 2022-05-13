@@ -9,7 +9,7 @@ image: wordle_assist.png
 
 ## Try it yourself
 
-<iframe height="400" width="100%" frameborder="no" src="https://hx2j2u-kevin-tsang.shinyapps.io/wordle_assist/"> </iframe>
+<iframe height="500px" width="100%" frameborder="no" src="https://hx2j2u-kevin-tsang.shinyapps.io/wordle_assist/" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"> </iframe>
 
 
 You can also run this app locally by running the following code in R.
