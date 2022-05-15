@@ -17,7 +17,7 @@ image: wordle_assist.png
     display: block;
     border: none;
     width: 100%
-    height: 500px;
+    height: 500%;
   }
 }
 
@@ -27,7 +27,7 @@ image: wordle_assist.png
     display: block;
     border: none;
     width: 150%;
-    height: 800px;
+    height: 700px;
   }
   
   .mobile {
@@ -41,7 +41,7 @@ image: wordle_assist.png
 <iframe class="desktop" src="https://hx2j2u-kevin-tsang.shinyapps.io/wordle_assist/"> </iframe>
 <iframe class="mobile" src="https://hx2j2u-kevin-tsang.shinyapps.io/wordle_assist/"> </iframe>
 
-
+<a href="https://hx2j2u-kevin-tsang.shinyapps.io/wordle_assist/" target="_blank">Click here to open the app in a new tab</a>
 
 You can also run this app locally by running the following code in R.
 
