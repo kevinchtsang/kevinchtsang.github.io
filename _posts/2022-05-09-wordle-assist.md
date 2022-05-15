@@ -6,10 +6,38 @@ author: "Kevin Tsang"
 # tags: [documentation,sample]
 image: wordle_assist.png
 ---
+<style>
+/* mobile */
+@media(max-width: 540px) {
+  .desktop {
+    display: none;
+  }
+  
+  .mobile {
+    display: block;
+    border: none;
+  }
+}
+
+/* desktop */
+@media(min-width: 541px) {
+  .desktop {
+    display: block;
+    border: none;
+    width: 150%;
+  }
+  
+  .mobile {
+    display: none;
+  }
+}
+</style>
 
 ## Try it yourself
 
-<iframe height="800px" width="150%" frameborder="no" src="https://hx2j2u-kevin-tsang.shinyapps.io/wordle_assist/"> </iframe>
+<iframe class="desktop" src="https://hx2j2u-kevin-tsang.shinyapps.io/wordle_assist/"> </iframe>
+<iframe class="mobile" src="https://hx2j2u-kevin-tsang.shinyapps.io/wordle_assist/"> </iframe>
+
 
 
 You can also run this app locally by running the following code in R.
