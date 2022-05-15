@@ -16,6 +16,7 @@ image: wordle_assist.png
   .mobile {
     display: block;
     border: none;
+    height: 100%;
   }
 }
 
@@ -25,6 +26,7 @@ image: wordle_assist.png
     display: block;
     border: none;
     width: 150%;
+    height: 100%;
   }
   
   .mobile {
