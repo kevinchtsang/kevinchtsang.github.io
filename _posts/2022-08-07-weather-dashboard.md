@@ -12,7 +12,7 @@ Power BI is a data visualisation tool. Here I produced a dashboard using the [da
 
 ![app screenshot](assets/img/weather_dashboard_heathrow.png)
 
-![app demo](assests/img/powerbi_weather_dashboard.gif)
+![app demo](assets/img/powerbi_weather_dashboard.gif)
 
 ## Data Processing
 There are two tables involved: one with the daily weather summaries and one with the locations of the Met Office stations. Refer to my [previous post](https://kevinchtsang.github.io/weather-animation/) for the process using R. The two tables are linked via `station_name` to `SITE`. This allows the interactive map to filter the data in the surrounding visuals.
