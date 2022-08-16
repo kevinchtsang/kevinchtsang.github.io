@@ -3,7 +3,7 @@ layout: post
 title: "Turning Tables into Animations Using R"
 author: "Kevin Tsang"
 # categories: journal
-# tags: [documentation,sample]
+# tags: [documentation,R]
 image: weather_viz.jpg
 ---
 

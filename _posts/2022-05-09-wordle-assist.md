@@ -3,7 +3,7 @@ layout: post
 title: "Wordle Assistant"
 author: "Kevin Tsang"
 # categories: journal
-# tags: [documentation,sample]
+# tags: [documentation,R,Shiny]
 image: wordle_assist.png
 ---
 <style>

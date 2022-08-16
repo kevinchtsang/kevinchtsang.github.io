@@ -3,7 +3,7 @@ layout: post
 title: "AUC-ROC Online Calculator for a Single Point"
 author: "Kevin Tsang"
 # categories: journal
-# tags: [documentation,sample]
+# tags: [documentation,html]
 # image: weather_viz.jpg
 ---
 
