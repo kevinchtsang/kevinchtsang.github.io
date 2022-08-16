@@ -10,9 +10,9 @@ image: dashboard-thumbnail.png
 ## Introduction
 Power BI is a data visualisation tool. Here I produced a dashboard using the [daily weather summaries of 2021](https://digital.nmla.metoffice.gov.uk/SO_ad3e3b06-cbf4-4302-91e6-6195761050bd/) provided by the [Met Office](https://www.metoffice.gov.uk/) (based in the UK). By clicking on the different sites across the UK, you can see the weather as measured at the station.
 
-![app screenshot](https://raw.githubusercontent.com/kevinchtsang/kevinchtsang.github.io/assests/img/weather_dashboard_heathrow.png)
+![app screenshot](assets/img/weather_dashboard_heathrow.png)
 
-![app demo](https://raw.githubusercontent.com/kevinchtsang/kevinchtsang.github.io/assests/img/powerbi_weather_dashboard.gif)
+![app demo](assests/img/powerbi_weather_dashboard.gif)
 
 ## Data Processing
 There are two tables involved: one with the daily weather summaries and one with the locations of the Met Office stations. Refer to my [previous post](https://kevinchtsang.github.io/weather-animation/) for the process using R. The two tables are linked via `station_name` to `SITE`. This allows the interactive map to filter the data in the surrounding visuals.
