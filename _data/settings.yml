@@ -9,6 +9,7 @@ google-ID: 'UA-112060364-1'
 menu:
 - {name: 'About',   url: 'about.html'}
 - {name: 'Projects', url: 'projects.html'}
+- {name: 'Publications', url: 'publications.html'}
 - {name: 'Talks', url: 'talks.html'}
 - {name: 'Contact', url: 'contact.html'}
 
