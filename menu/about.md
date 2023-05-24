@@ -4,7 +4,7 @@ title: About Me
 permalink: /about
 ---
 
-![Kevin profile picture](assets/img/kevin_profile.jpeg)
+<img src="/assets/img/kevin_profile.jpeg"  width="300" height="300">
 
 I am a Teaching Fellow/Assistant Professor at the University of Edinburgh and part of the Data-Driven Innovation Talent team, responsible for delivering master's degrees and short courses to train and upskill students and health and social care professionals in areas relating to data and digital technology. I lecture in R, Python, SQL, and data science.
 
