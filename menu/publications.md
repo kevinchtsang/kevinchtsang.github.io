@@ -6,7 +6,9 @@ permalink: /publications
 
 ## 2023
 
-**Tsang KCH**, Pinnock H, Wilson AM, Salvi D, Shah SA. Home Monitoring with Connected Mobile Devices for Asthma Attack Prediction with Machine Learning. *Scientific Data, Nature*; 2023.
+**Tsang KCH**, Pinnock H, Wilson AM, Salvi D, Shah SA. Home Monitoring with Connected Mobile Devices for Asthma Attack Prediction with Machine Learning. *Scientific Data, Nature*. 2023.
+
+**Tsang KCH**. Application of data-driven technologies for asthma self-management \[PhD Thesis\]. *University of Edinburgh*. 2023. doi: [10.7488/era/3313](http://dx.doi.org/10.7488/era/3313)
 
 **Tsang KCH**, Pinnock H, Wilson AM, Salvi D, Olsson CM, Shah SA. Compliance and Usability of an Asthma Home Monitoring System. In: *EAI PervasiveHealth 2022*. [Springer](https://link.springer.com/book/9783031345876); 2023. [Link to publication](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1743246&dswid=-7438)
 
