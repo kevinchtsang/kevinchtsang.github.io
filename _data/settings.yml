@@ -10,6 +10,7 @@ menu:
 - {name: 'About',   url: 'about.html'}
 - {name: 'Projects', url: 'projects.html'}
 - {name: 'Publications', url: 'publications.html'}
+- {name: 'Teaching', url: 'teaching.html'}
 - {name: 'Talks', url: 'talks.html'}
 - {name: 'Contact', url: 'contact.html'}
 
