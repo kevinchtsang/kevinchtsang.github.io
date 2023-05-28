@@ -19,12 +19,12 @@ permalink: /teaching
 
 ## Supervisor
 
-\[MSc Data Science for Health and Social Care (Online Learning)\](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=1041) (2022/23)
+[Master of Data Science for Health and Social Care (Online Learning)](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=1041) (2022/23)
 
-\[MSc Public Health\](https://www.ed.ac.uk/molecular-genetic-population/mph) (2022/23)
+[Master of Public Health](https://www.ed.ac.uk/molecular-genetic-population/mph) (2022/23)
 
 
-## Course Designer, Course Reviewer
+## Course Designer, Course Developer, Course Reviewer
 
 \[MSc\] Research Design in Data Science for Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11057.htm))
 
