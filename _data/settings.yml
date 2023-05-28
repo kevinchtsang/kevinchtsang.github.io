@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'About',   url: 'about.html'}
-- {name: 'Projects', url: 'projects.html'}
+- {name: 'Projects', url: ''}
 - {name: 'Publications', url: 'publications.html'}
 - {name: 'Teaching', url: 'teaching.html'}
 - {name: 'Talks', url: 'talks.html'}

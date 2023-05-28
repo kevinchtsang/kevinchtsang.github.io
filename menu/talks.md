@@ -19,6 +19,5 @@ permalink: /talks
 #### Asthma UK Centre for Applied Research Research Seminar, Online. Jan 2021. "Mobile Device Monitoring to Inform Prediction of Asthma Attacks: an Observational Study (AAMOS-00)"
 
 <br/><br/>
-<br/><br/>
 
 #### 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society (EMBC 2020), Montreal, Canada. Jul 2020. "Application of Machine Learning to Support Self-Management of Asthma with mHealth"
