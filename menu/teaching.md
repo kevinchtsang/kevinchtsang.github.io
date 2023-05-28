@@ -16,13 +16,17 @@ permalink: /teaching
 
 \[MSc\] Introduction to Data Science in Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11037.htm))
 
+<br/><br/>
+<br/><br/>
 
 ## Supervisor
 
 [Master of Data Science for Health and Social Care (Online Learning)](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=1041) (2022/23)
 
-[Master of Public Health](https://www.ed.ac.uk/molecular-genetic-population/mph) (2022/23)
+[Master of Public Health (On Campus)](https://www.ed.ac.uk/molecular-genetic-population/mph) (2022/23)
 
+<br/><br/>
+<br/><br/>
 
 ## Course Designer, Course Developer, Course Reviewer
 
@@ -36,6 +40,8 @@ permalink: /teaching
 
 \[MSc\] Introduction to Data Science in Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11037.htm))
 
+<br/><br/>
+<br/><br/>
 
 ## Instructor
 
