@@ -4,15 +4,16 @@ title: Teaching
 permalink: /teaching
 ---
 
-## Course Lead, Lecturer, Course Co-Lead
+
+## Course Designer, Course Developer, Course Reviewer
 
 \[MSc\] Research Design in Data Science for Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11057.htm))
+
+\[MSc/CPD/PPD\] Working with Data Types and Structures in Python and R ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11050.htm))
 
 \[MSc/CPD/PPD\] Applied Software Development in Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/23-24/dpt/cxhein11062.htm))
 
 \[MSc/CPD/PPD\] Introduction to Databases and Information Systems ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11048.htm))
-
-\[MSc/CPD/PPD\] Health Data Science ([2022/23 semester 1](http://www.drps.ed.ac.uk/22-23/dpt/cxglhe11086.htm), [2022/23 semester 2](http://www.drps.ed.ac.uk/22-23/dpt/cxglhe11086.htm))
 
 \[MSc\] Introduction to Data Science in Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11037.htm))
 
@@ -26,15 +27,15 @@ permalink: /teaching
 
 <br/><br/>
 
-## Course Designer, Course Developer, Course Reviewer
+## Course Lead, Lecturer, Course Co-Lead
 
 \[MSc\] Research Design in Data Science for Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11057.htm))
-
-\[MSc/CPD/PPD\] Working with Data Types and Structures in Python and R ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11050.htm))
 
 \[MSc/CPD/PPD\] Applied Software Development in Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/23-24/dpt/cxhein11062.htm))
 
 \[MSc/CPD/PPD\] Introduction to Databases and Information Systems ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11048.htm))
+
+\[MSc/CPD/PPD\] Health Data Science ([2022/23 semester 1](http://www.drps.ed.ac.uk/22-23/dpt/cxglhe11086.htm), [2022/23 semester 2](http://www.drps.ed.ac.uk/22-23/dpt/cxglhe11086.htm))
 
 \[MSc\] Introduction to Data Science in Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11037.htm))
 
