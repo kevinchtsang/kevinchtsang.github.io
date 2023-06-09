@@ -4,10 +4,10 @@ title: "Project: AAMOS-00"
 author: "Kevin Tsang"
 # categories: journal
 tags: [project]
-image: AAMOS-00_Facebook2.jpg
+image: AAMOS_logo.png
 ---
 
-The AAMOS-00 data collection has concluded. With the help of our 32 participants across the UK, we collected over 2,500 patient-days of data to form a rich dataset.
+The AAMOS-00 data collection has completed with the help of our 32 participants across the UK. Together, we collected over 2,500 patient-days of data between April 2021 and June 2022 to form a rich dataset.
 
 Supported self-management empowering people with asthma to detect early deterioration and take timely action reduces the risk of asthma attacks. Smartphones and smart-monitoring devices coupled with machine learning could enhance self-management by predicting asthma attacks and providing tailored feedback.
 
@@ -21,4 +21,4 @@ Find out more on the [study's website](https://www.ed.ac.uk/usher/aukcar/knowled
 
 Our [findings](https://www.diva-portal.org/smash/record.jsf?dswid=1791&pid=diva2%3A1743246) show that the compliance to smartwatch (passive) monitoring was found to lie between the compliance to (actively) complete daily asthma diaries and (actively) measuring daily peak flow. However, some study participants faced technical issues with the devices which could have affected the relative compliance of the monitoring tasks. 
 
-![aamos_poster](/asset/img/Usher_Annual2022_Kevin.png)
+![aamos-poster](/assets/img/Usher_Annual2022_Kevin.png)
