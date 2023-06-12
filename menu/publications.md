@@ -10,7 +10,7 @@ permalink: /publications
 
 **Tsang KCH**. Application of data-driven technologies for asthma self-management \[PhD Thesis\]. *University of Edinburgh*. 2023. doi: [10.7488/era/3313](http://dx.doi.org/10.7488/era/3313)
 
-**Tsang KCH**, Pinnock H, Wilson AM, Salvi D, Olsson CM, Shah SA. Compliance and Usability of an Asthma Home Monitoring System. In: *EAI PervasiveHealth 2022*. [Springer](https://link.springer.com/book/9783031345876); 2023. [Link to publication](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1743246&dswid=-7438)
+**Tsang KCH**, Pinnock H, Wilson AM, Salvi D, Olsson CM, Shah SA (2023). Compliance and Usability of an Asthma Home Monitoring System. In: Tsanas, A., Triantafyllidis, A. (eds) Pervasive Computing Technologies for Healthcare. PH 2022. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 488. Springer, Cham. doi: [10.1007/978-3-031-34586-9_9](https://doi.org/10.1007/978-3-031-34586-9_9)
 
 ## 2022
 
