@@ -19,7 +19,7 @@ permalink: /teaching
 
 <br/><br/>
 
-## Supervisor
+## Dissertation Project Coordinator, Supervisor
 
 [Master of Data Science for Health and Social Care (Online Learning)](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=1041) (2022/23)
 

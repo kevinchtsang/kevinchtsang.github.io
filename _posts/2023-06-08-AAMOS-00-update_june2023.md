@@ -17,7 +17,7 @@ Our data has been made open access via [Edinburgh DataShare](https://doi.org/10.
 
 You can read the protocol of the study published in [BMJ Open](https://doi.org/10.1136/bmjopen-2022-064166).
 
-Our [findings](https://www.diva-portal.org/smash/record.jsf?dswid=1791&pid=diva2%3A1743246) show that the compliance to smartwatch (passive) monitoring was found to lie between the compliance to (actively) complete daily asthma diaries and (actively) measuring daily peak flow. However, some study participants faced technical issues with the devices which could have affected the relative compliance of the monitoring tasks. 
+Our [findings](https://doi.org/10.1007/978-3-031-34586-9_9) show that the compliance to smartwatch (passive) monitoring was found to lie between the compliance to (actively) complete daily asthma diaries and (actively) measuring daily peak flow. However, some study participants faced technical issues with the devices which could have affected the relative compliance of the monitoring tasks. 
 
 ![aamos-poster](/assets/img/Usher_Annual2022_Kevin.png)
 
