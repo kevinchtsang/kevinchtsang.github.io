@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Kevin Tsang, PhD'
-description:	       'Assistant Professor University of Edinburgh'
+description:	       'Assistant Professor UCL'
 author:              'Kevin Tsang, PhD'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

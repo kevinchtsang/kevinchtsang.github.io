@@ -4,8 +4,20 @@ title: Teaching
 permalink: /teaching
 ---
 
+## UCL - University College London (2023-)
+### PhD Supervision
 
-## Course Designer, Course Developer, Course Reviewer
+Open to taking on PhD students. Please contact me if you are interested in working with me.
+
+### Module Co-Lead
+
+\[MSc\] Programming with Python for Health Research ([2023/24](https://www.ucl.ac.uk/module-catalogue/modules/programming-with-python-for-health-research-CHME0031))
+
+
+
+## University of Edinburgh (2019-2023)
+
+### Course Designer, Course Developer, Course Reviewer
 
 \[MSc\] Research Design in Data Science for Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11057.htm))
 
@@ -19,7 +31,7 @@ permalink: /teaching
 
 <br/><br/>
 
-## Dissertation Project Coordinator, Supervisor
+### Dissertation Project Coordinator, Supervisor
 
 [Master of Data Science for Health and Social Care (Online Learning)](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=1041) (2022/23)
 
@@ -27,7 +39,7 @@ permalink: /teaching
 
 <br/><br/>
 
-## Course Lead, Lecturer, Course Co-Lead
+### Course Lead, Lecturer, Course Co-Lead
 
 \[MSc\] Research Design in Data Science for Health and Social Care ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11057.htm))
 
@@ -41,7 +53,7 @@ permalink: /teaching
 
 <br/><br/>
 
-## Instructor
+### Instructor
 
 \[MSc/CPD/PPD\] Big Data Analytics ([2022/23](http://www.drps.ed.ac.uk/22-23/dpt/cxhein11055.htm))
 
