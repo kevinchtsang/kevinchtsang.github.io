@@ -13,7 +13,7 @@ Open to taking on PhD students. Please contact me if you are interested in worki
 
 \[MSc\] Programming with Python for Health Research ([2023/24](https://www.ucl.ac.uk/module-catalogue/modules/programming-with-python-for-health-research-CHME0031))
 
-
+<br/><br/>
 
 ## University of Edinburgh (2019-2023)
 
