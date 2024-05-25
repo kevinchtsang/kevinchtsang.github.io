@@ -6,7 +6,7 @@ permalink: /publications
 
 ## 2024
 
-Chan AHY, Te Ao B, Baggott C, Cavadino A, Eikholt AA, ..., **Tsang KCH**, ..., Roop P, Harrison J. DIGIPREDICT: physiological, behavioural and environmental predictors of asthma attacks—a prospective observational study using digital markers and artificial intelligence—study protocol. *BMJ Open Respiratory Research*. 2024;11(1):e002275. doi:[10.1136/bmjresp-2023-002275](https://10.1136/bmjresp-2023-002275)
+Chan AHY, Te Ao B, Baggott C, Cavadino A, Eikholt AA, ..., **Tsang KCH**, ..., Roop P, Harrison J. DIGIPREDICT: physiological, behavioural and environmental predictors of asthma attacks—a prospective observational study using digital markers and artificial intelligence—study protocol. *BMJ Open Respiratory Research*. 2024;11(1):e002275. doi:[10.1136/bmjresp-2023-002275](https://doi.org/10.1136/bmjresp-2023-002275)
 
 
 
