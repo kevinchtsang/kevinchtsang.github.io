@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications
 ---
 
+## 2024
+
+Chan AHY, Te Ao B, Baggott C, Cavadino A, Eikholt AA, ..., **Tsang KCH**, ..., Roop P, Harrison J. DIGIPREDICT: physiological, behavioural and environmental predictors of asthma attacks—a prospective observational study using digital markers and artificial intelligence—study protocol. *BMJ Open Respiratory Research*. 2024;11(1):e002275. doi:[10.1136/bmjresp-2023-002275](https://10.1136/bmjresp-2023-002275)
+
+
+
 ## 2023
 
 **Tsang KCH**, Pinnock H, Wilson AM, Salvi D, Shah SA. Home Monitoring with Connected Mobile Devices for Asthma Attack Prediction with Machine Learning. *Scientific Data, Nature*. 2023;10:370. doi: [10.1038/s41597-023-02241-9](https://doi.org/10.1038/s41597-023-02241-9)
