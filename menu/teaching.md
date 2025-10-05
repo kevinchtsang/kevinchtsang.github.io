@@ -9,7 +9,9 @@ permalink: /teaching
 
 Open to taking on PhD students. Please contact me if you are interested in working with me.
 
-### Programme Co-Director of Health Data Science MSc (2024-)
+### Programme Director of Health Data Science MSc (2025-)
+
+### Programme Co-Director of Health Data Science MSc (2024-2025)
 
 ### Module Lead
 

@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications
 ---
 
+## 2025
+Wang R, **Tsang KCH**. Evaluating socio-demographic risk factors of asthma control and effects of using a pilot asthma self-management mobile platform. In: *2025 IEEE 13th International Conference on Healthcare Informatics (ICHI)*. IEEE; 2025: 157-163. doi: [10.1109/ICHI64645.2025.00026](https://10.1109/ICHI64645.2025.00026)
+
 ## 2024
 
 **Tsang KCH**. Enhancing Asthma Self-Management with Environmental Passive-Monitoring Data and Machine Learning-Based Predictions. *Studies in Health Technology and Informatics*. 2024;316:700 - 704. doi: [10.3233/SHTI240510](https://doi.org/10.3233/SHTI240510)
