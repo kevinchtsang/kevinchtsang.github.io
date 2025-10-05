@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks
 ---
 
-#### BCS Faculty of Health & Care - Annual Scientific Conference 2025, London, UK. Oct 2025. "From Data to Action: How Data Science is Driving Population Health Management and Predictive Care Models"
+#### British Computer Society (BCS, The Chartered Institute for IT) Faculty of Health & Care - Annual Scientific Conference 2025, London, UK. Oct 2025. "From Data to Action: How Data Science is Driving Population Health Management and Predictive Care Models"
 
 <br/><br/>
 
