@@ -5,13 +5,15 @@ permalink: /teaching
 ---
 
 ## UCL - University College London (2023-)
+### Programme Director of Health Data Science MSc (2025-)
+
+### Programme Co-Director of Health Data Science MSc (2024-2025)
+
+
 ### PhD Supervision
 
 Open to taking on PhD students. Please contact me if you are interested in working with me.
 
-### Programme Director of Health Data Science MSc (2025-)
-
-### Programme Co-Director of Health Data Science MSc (2024-2025)
 
 ### Module Lead
 

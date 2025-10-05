@@ -4,6 +4,22 @@ title: Talks
 permalink: /talks
 ---
 
+#### BCS Faculty of Health & Care - Annual Scientific Conference 2025, London, UK. Oct 2025. "From Data to Action: How Data Science is Driving Population Health Management and Predictive Care Models"
+
+<br/><br/>
+
+#### Research Bazaar Aotearoa, Auckland, New Zealand. Jul 2025. "Data Storytelling with R and ggplot"
+
+<br/><br/>
+
+#### Medical Informatics Europe 2025, Glasgow, UK. May 2025. "What to teach tomorrow’s doctors about AI and data science?" [Workshop]
+
+<br/><br/>
+
+#### 5th Annual interRAI Knowledge Exchange, Auckland, New Zealand. Feb 2025. "When AI Models Excel (and When They Don’t)"
+
+<br/><br/>
+
 #### Medical Informatics Europe 2024, Athens, Greece. Aug 2024. "Enhancing Asthma Self-Management with Environmental Passive-Monitoring Data and Machine Learning-Based Predictions"
 
 <br/><br/>
