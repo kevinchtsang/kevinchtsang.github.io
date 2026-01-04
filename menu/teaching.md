@@ -17,19 +17,19 @@ Open to taking on PhD students. Please contact me if you are interested in worki
 
 ### Module Lead
 
-\[MSc\] [Machine Learning in Health Care](https://www.ucl.ac.uk/module-catalogue/modules/machine-learning-in-health-care-blended-learning-CHME0018) (2024/25)
+\[MSc\] [Machine Learning in Health Care](https://www.ucl.ac.uk/module-catalogue/modules/machine-learning-in-health-care-blended-learning-CHME0018) (2024/25, 2025/26)
 
 ### Module Co-Lead
 
-\[MSc\] [Programming with Python for Health Research](https://www.ucl.ac.uk/module-catalogue/modules/programming-with-python-for-health-research-CHME0031) (2023/24, 2024/25)
+\[MSc\] [Programming with Python for Health Research](https://www.ucl.ac.uk/module-catalogue/modules/programming-with-python-for-health-research-CHME0031) (2023/24, 2024/25, 2025/26)
 
 \[MSc\] [Artificial Intelligence in Healthcare](https://www.ucl.ac.uk/module-catalogue/modules/artificial-intelligence-in-healthcare-aih-CHME0016) (2023/24)
 
-\[MSc\] [Data Methods for Health Research](https://www.ucl.ac.uk/module-catalogue/modules/data-methods-for-health-research-CHME0013) (2023/24. 2024/25)
+\[MSc\] [Data Methods for Health Research](https://www.ucl.ac.uk/module-catalogue/modules/data-methods-for-health-research-CHME0013) (2023/24, 2024/25, 2025/26)
 
-\[MSc\] [Artificial Intelligence in Healthcare Group Project](https://www.ucl.ac.uk/module-catalogue/modules/artificial-intelligence-in-healthcare-group-project-CHME0039) (2023/24, 2024/25)
+\[MSc\] [Artificial Intelligence in Healthcare Group Project](https://www.ucl.ac.uk/module-catalogue/modules/artificial-intelligence-in-healthcare-group-project-CHME0039) (2023/24, 2024/25, 2025/26)
 
-\[MSc\] [Advanced Machine Learning for Healthcare](https://www.ucl.ac.uk/module-catalogue/modules/advanced-machine-learning-for-healthcare-CHME0035) (2023/24, 2024/25)
+\[MSc\] [Advanced Machine Learning for Healthcare](https://www.ucl.ac.uk/module-catalogue/modules/advanced-machine-learning-for-healthcare-CHME0035) (2023/24, 2024/25, 2025/26)
 
 <br/><br/>
 

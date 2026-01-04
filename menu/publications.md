@@ -5,7 +5,12 @@ permalink: /publications
 ---
 
 ## 2025
-Wang R, **Tsang KCH**. Evaluating socio-demographic risk factors of asthma control and effects of using a pilot asthma self-management mobile platform. In: *2025 IEEE 13th International Conference on Healthcare Informatics (ICHI)*. IEEE; 2025: 157-163. doi: [10.1109/ICHI64645.2025.00026](https://10.1109/ICHI64645.2025.00026)
+
+Li T, **Tsang KCH**. Your Night's Watch: Leveraging Mi-Band-3 Smartwatches and Machine Learning for Detecting Nocturnal Asthma Attacks. In: *2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*. IEEE; 2025. doi: [10.1109/EMBC58623.2025.11253002](https://doi.org/10.1109/EMBC58623.2025.11253002)
+
+
+
+Wang R, **Tsang KCH**. Evaluating socio-demographic risk factors of asthma control and effects of using a pilot asthma self-management mobile platform. In: *2025 IEEE 13th International Conference on Healthcare Informatics (ICHI)*. IEEE; 2025: 157-163. doi: [10.1109/ICHI64645.2025.00026](https://doi.org/10.1109/ICHI64645.2025.00026)
 
 ## 2024
 
